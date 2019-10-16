@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+_isUrlWhitelisted	src/api/img.js	/^function _isUrlWhitelisted(url, whitelistType, defaultValue, whitelist) {$/;"	f
+_updateQueryStringParameter	src/api/catalog.js	/^function _updateQueryStringParameter(uri, key, value) {$/;"	f
+auth.user	src/api/catalog.js	/^			user: config.elasticsearch.user,$/;"	p
+buildItems	src/graphql/elasticsearch/cms/resolver.js	/^function buildItems(response) {$/;"	f
+const.JSON	src/graphql/elasticsearch/json_type/resolver.js	/^  JSON: new GraphQLScalarType({$/;"	p
+const.Query	src/graphql/elasticsearch/attribute/resolver.js	/^  Query: {$/;"	p
+const.Query	src/graphql/elasticsearch/category/resolver.js	/^  Query: {$/;"	p
+const.Query	src/graphql/elasticsearch/cms/resolver.js	/^  Query: {$/;"	p
+const.Query	src/graphql/elasticsearch/review/resolver.js	/^  Query: {$/;"	p
+const.Query	src/graphql/elasticsearch/taxrule/resolver.js	/^  Query: {$/;"	p
+const.fit	src/lib/image.js	/^        fit: sharp.fit.inside$/;"	p
+const.group_id	src/api/user.js	/^      group_id : result.group_id,$/;"	p
+const.withoutEnlargement	src/lib/image.js	/^        withoutEnlargement: true,$/;"	p
+createIndex	src/lib/elastic.js	/^function createIndex(db, indexName, next) {$/;"	f
+deleteIndex	src/lib/elastic.js	/^function deleteIndex(db, indexName, next) {$/;"	f
+export.code	src/lib/util.js	/^	let apiResult = { code: code, result: result };$/;"	p
+export.result	src/lib/util.js	/^	let apiResult = { code: code, result: result };$/;"	p
+exports.default.additionalProperties	src/models/order.schema.js	/^  additionalProperties: false,$/;"	p
+exports.default.required	src/models/order.schema.js	/^  required: [$/;"	p
+from.Query	src/graphql/elasticsearch/catalog/resolver.js	/^  Query: {$/;"	p
+function.applySearchQuery	src/graphql/elasticsearch/queryBuilder.js	/^function applySearchQuery(search, query) {$/;"	f
+function.applySort	src/graphql/elasticsearch/queryBuilder.js	/^function applySort(sort, query) {$/;"	f
+function.exec	scripts/mage2vs.js	/^function exec(cmd, args, opts) {$/;"	f
+function.getMagentoDefaultConfig	scripts/mage2vs.js	/^function getMagentoDefaultConfig(storeCode) {$/;"	f
+function.isNumeric	src/platform/magento2/o2m.js	/^function isNumeric(val) {$/;"	f
+identity	src/graphql/elasticsearch/json_type/resolver.js	/^function identity(value) {$/;"	f
+import.attribute	src/graphql/elasticsearch/queryBuilder.js	/^    'attribute': attribute,$/;"	p
+import.value	src/graphql/elasticsearch/queryBuilder.js	/^    'value': value$/;"	p
+isImageSourceHostAllowed	src/api/img.js	/^function isImageSourceHostAllowed(url, whitelist) {$/;"	f
+isSpecialPriceActive	src/lib/taxcalc.js	/^function isSpecialPriceActive(fromDate, toDate) {$/;"	f
+loadSchema.putMappings	src/lib/elastic.js	/^function putMappings(db, indexName, next) {$/;"	f
+mapCountryRegion	src/lib/countrymapper.js	/^function mapCountryRegion(countryList, countryId, regionCode) {$/;"	f
+module.exports.presets	babel.config.js	/^  presets: [$/;"	p
+module_exists	src/processor/factory.js	/^function module_exists( name ) {$/;"	f
+parseLiteral	src/graphql/elasticsearch/json_type/resolver.js	/^function parseLiteral(ast, variables) {$/;"	f
+reIndex	src/lib/elastic.js	/^function reIndex(db, fromIndexName, toIndexName, next) {$/;"	f
+response.page_info.current_page	src/graphql/elasticsearch/catalog/resolver.js	/^    current_page: currentPage$/;"	p
+response.page_info.page_size	src/graphql/elasticsearch/catalog/resolver.js	/^    page_size: pageSize,$/;"	p
+search	src/lib/elastic.js	/^function search (db, query) {$/;"	f
+winston	src/worker/log.js	/^var winston = require('winston');$/;"	v
